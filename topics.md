@@ -29,6 +29,7 @@
 - [language](#language)
 - [markdown](#markdown)
 - [nextjs](#nextjs)
+- [node](#node)
 - [nodejs](#nodejs)
 - [others](#others)
 - [php](#php)
@@ -127,10 +128,12 @@
 
 ## github-api 
 
+- [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## hacktoberfest 
 
+- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [HwangTaehyun/github-contributor-stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats on your readmes
 - [victorakaps/Profile.md](https://github.com/victorakaps/Profile.md) - Collecting Awesome Developer Profile README's
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
@@ -171,15 +174,22 @@
 
 ## nextjs 
 
+- [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
 - [skynexui/components](https://github.com/skynexui/components) - ⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro
 - [alura-challenges/aluraquiz-base](https://github.com/alura-challenges/aluraquiz-base) - Projeto construido durante a Imersão React edição NextJS da Alura!
 
+## node 
+
+- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
+
 ## nodejs 
 
+- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 
 ## others 
 
+- [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
