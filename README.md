@@ -37,6 +37,9 @@
 
 ## JavaScript 
 
+- [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
+- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
+- [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [dcfdl/Rea](https://github.com/dcfdl/Rea) - 
 - [cebuliski/nodejs-initial-setup](https://github.com/cebuliski/nodejs-initial-setup) - Setup para API Node.js - template TypeScript - jest, babel e eslint
