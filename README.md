@@ -124,6 +124,7 @@
 
 ## TypeScript 
 
+- [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [HwangTaehyun/github-contributor-stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats on your readmes
