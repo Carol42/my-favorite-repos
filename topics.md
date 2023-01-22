@@ -38,7 +38,6 @@
 - [react](#react)
 - [react-native](#react-native)
 - [redux](#redux)
-- [serverless](#serverless)
 - [ubuntu](#ubuntu)
 - [web](#web)
 
@@ -133,8 +132,8 @@
 
 ## hacktoberfest 
 
+- [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing all the Pokémon sprites
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
-- [HwangTaehyun/github-contributor-stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats on your readmes
 - [victorakaps/Profile.md](https://github.com/victorakaps/Profile.md) - Collecting Awesome Developer Profile README's
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
 
@@ -194,7 +193,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 162 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 163 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
@@ -257,10 +256,6 @@
 ## redux 
 
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
-
-## serverless 
-
-- [HwangTaehyun/github-contributor-stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats on your readmes
 
 ## ubuntu 
 
