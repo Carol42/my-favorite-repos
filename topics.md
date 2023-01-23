@@ -113,7 +113,7 @@
 
 ## github 
 
-- [HwangTaehyun/github-contributor-stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats on your readmes
+- [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Get dynamically generated Github Repository Contribution stats on your readmes (github-contributor-stats)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
@@ -193,7 +193,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 163 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 163 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
