@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bot](#bot)
+- [chatgpt](#chatgpt)
 - [css](#css)
 - [dart](#dart)
 - [deployment](#deployment)
@@ -75,6 +76,10 @@
 ## bot 
 
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
+
+## chatgpt 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## css 
 
