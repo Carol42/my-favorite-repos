@@ -71,6 +71,7 @@
 
 ## Others 
 
+- [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [gilfernandesjr/disciplina_devmobile](https://github.com/gilfernandesjr/disciplina_devmobile) - 
