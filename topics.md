@@ -193,6 +193,7 @@
 
 ## others 
 
+- [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public) - 
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
