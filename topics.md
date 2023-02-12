@@ -196,6 +196,7 @@
 
 ## others 
 
+- [devfullcycle/imersao12](https://github.com/devfullcycle/imersao12) - 
 - [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public) - 
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
