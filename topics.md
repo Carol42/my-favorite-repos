@@ -57,6 +57,7 @@
 
 ## awesome 
 
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
@@ -69,6 +70,7 @@
 
 ## awesome-list 
 
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -203,7 +205,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 104 stars and 165 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 163 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
