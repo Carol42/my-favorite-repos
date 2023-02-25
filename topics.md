@@ -199,6 +199,7 @@
 
 ## others 
 
+- [kf-liu/date-box](https://github.com/kf-liu/date-box) - 🗓 Update a pinned gist to contain your anniversaries and countdown days (or hours).
 - [devfullcycle/imersao12](https://github.com/devfullcycle/imersao12) - 
 - [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public) - 
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
