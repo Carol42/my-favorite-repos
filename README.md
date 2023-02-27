@@ -9,6 +9,7 @@
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -40,6 +41,10 @@
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [MilenaCarecho/GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) - Guia de como se tornar uma desenvolvedora front end.
+
+## Java 
+
+- [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
 ## JavaScript 
 
@@ -81,6 +86,7 @@
 
 ## Others 
 
+- [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
@@ -127,7 +133,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 164 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 105 stars and 165 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
@@ -150,6 +156,7 @@
 
 ## Shell 
 
+- [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
 - [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing all the Pokémon sprites
 
 ## TeX 
