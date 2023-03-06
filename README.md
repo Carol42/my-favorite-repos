@@ -14,6 +14,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -48,6 +49,7 @@
 
 ## JavaScript 
 
+- [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
@@ -83,6 +85,10 @@
 ## Mustache 
 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
+
+## Objective-C 
+
+- [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text) - Hybrid app that transfers eye blinking captured with Tensorflow.js to text with the usage of Morse Code.
 
 ## Others 
 
