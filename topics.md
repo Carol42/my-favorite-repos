@@ -17,6 +17,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [dart](#dart)
+- [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -144,6 +145,7 @@
 
 ## chatgpt 
 
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## cpp 
@@ -158,6 +160,10 @@
 ## dart 
 
 - [skynexui/components](https://github.com/skynexui/components) - ⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro
+
+## deep-learning 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 
 ## deployment 
 
@@ -313,6 +319,7 @@
 
 ## others 
 
+- [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic) - The ChatGPT Cheat Sheet
 - [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text) - Hybrid app that transfers eye blinking captured with Tensorflow.js to text with the usage of Morse Code.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
