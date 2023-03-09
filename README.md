@@ -11,6 +11,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -73,6 +74,10 @@
 - [gideonfernandes/typing-game](https://github.com/gideonfernandes/typing-game) - A simple yet fun game with 3 levels of difficulty. The objective of the game is to beat the clock by typing random words.
 - [imersao-alura/aluraflix](https://github.com/imersao-alura/aluraflix) - ⚛️ Projeto feito durante a Imersão React da Alura
 
+## Jupyter Notebook 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
+
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -92,6 +97,8 @@
 
 ## Others 
 
+- [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic) - The ChatGPT Cheat Sheet
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
