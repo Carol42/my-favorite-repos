@@ -319,6 +319,7 @@
 
 ## others 
 
+- [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk) - Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023
 - [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic) - The ChatGPT Cheat Sheet
 - [monaca-samples/blink-to-text](https://github.com/monaca-samples/blink-to-text) - Hybrid app that transfers eye blinking captured with Tensorflow.js to text with the usage of Morse Code.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
