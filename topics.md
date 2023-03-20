@@ -334,7 +334,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 166 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 107 stars and 166 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
@@ -392,6 +392,7 @@
 
 ## react 
 
+- [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react) - Código produzido na masterclass de React ⚛️
 - [skynexui/components](https://github.com/skynexui/components) - ⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 
