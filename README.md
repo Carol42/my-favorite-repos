@@ -147,7 +147,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 106 stars and 166 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 107 stars and 166 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
@@ -180,6 +180,7 @@
 
 ## TypeScript 
 
+- [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react) - Código produzido na masterclass de React ⚛️
 - [devfullcycle/imersao12](https://github.com/devfullcycle/imersao12) - 
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
