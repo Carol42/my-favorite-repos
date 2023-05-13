@@ -116,7 +116,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [omariosouto/learn-in-public](https://github.com/omariosouto/learn-in-public) - 
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
 - [gilfernandesjr/disciplina_devmobile](https://github.com/gilfernandesjr/disciplina_devmobile) - 
 - [cami-la/curso-dio-dominando-ides-java](https://github.com/cami-la/curso-dio-dominando-ides-java) - Repositório do curso Dominando IDEs Java. Curso este oferecido pela Digital Innovation one e ministrado por mim.
@@ -154,7 +153,6 @@
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
 - [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu) - An interactive chess game in a README file!
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM](https://github.com/avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM) - 
 
 ## Roff 
