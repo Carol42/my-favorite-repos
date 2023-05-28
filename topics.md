@@ -217,6 +217,7 @@
 
 ## github 
 
+- [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo) - GitHub badge hunting 🏹🦌
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
@@ -325,6 +326,7 @@
 
 ## others 
 
+- [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
 - [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) - Aplicação de recordação de memórias desenvolvida no NLW 12
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk) - Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023
