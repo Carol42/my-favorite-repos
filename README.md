@@ -98,6 +98,8 @@
 
 ## Others 
 
+- [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
+- [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo) - GitHub badge hunting 🏹🦌
 - [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic) - The ChatGPT Cheat Sheet
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
