@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [CSS](#css)
+- [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -32,6 +33,10 @@
 ## CSS 
 
 - [MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias
+
+## Dart 
+
+- [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng) - Profile ReadME: Community Battle game, Join my community game now!
 
 ## Go 
 
