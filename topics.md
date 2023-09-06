@@ -331,6 +331,7 @@
 
 ## others 
 
+- [shantnu/Enron-Data-Set](https://github.com/shantnu/Enron-Data-Set) - 
 - [aryan02420/aryan02420](https://github.com/aryan02420/aryan02420) - 
 - [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
 - [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) - Aplicação de recordação de memórias desenvolvida no NLW 12
