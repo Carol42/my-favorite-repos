@@ -109,6 +109,7 @@
 
 ## Others 
 
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
 - [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo) - GitHub badge hunting 🏹🦌
 - [kristopher-wayton/chat-gpt-cheatsheet-nueralmagic](https://github.com/kristopher-wayton/chat-gpt-cheatsheet-nueralmagic) - The ChatGPT Cheat Sheet
@@ -194,6 +195,7 @@
 
 ## TypeScript 
 
+- [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
 - [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) - Aplicação de recordação de memórias desenvolvida no NLW 12
 - [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react) - Código produzido na masterclass de React ⚛️
 - [devfullcycle/imersao12](https://github.com/devfullcycle/imersao12) - 
