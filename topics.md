@@ -331,6 +331,8 @@
 
 ## others 
 
+- [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [shantnu/Enron-Data-Set](https://github.com/shantnu/Enron-Data-Set) - 
 - [aryan02420/aryan02420](https://github.com/aryan02420/aryan02420) - 
 - [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
