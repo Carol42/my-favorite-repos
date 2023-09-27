@@ -55,7 +55,6 @@
 - [python](#python)
 - [react](#react)
 - [react-native](#react-native)
-- [redux](#redux)
 - [security](#security)
 - [software](#software)
 - [tensorflow](#tensorflow)
@@ -416,10 +415,6 @@
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 
 ## react-native 
-
-- [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
-
-## redux 
 
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 
