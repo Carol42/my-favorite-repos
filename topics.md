@@ -249,10 +249,12 @@
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing all the Pokémon sprites
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
+- [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [victorakaps/Profile.md](https://github.com/victorakaps/Profile.md) - Collecting Awesome Developer Profile README's
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋, Glad to see you here! this is a special repository. Its README.md will appear on my GitHub public profile. Checkout this repository, you can also use it to make your awesome GitHub profile (Don
 
 ## html 
 
@@ -359,7 +361,6 @@
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-- [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [dcfdl/Rea](https://github.com/dcfdl/Rea) - 
 - [ljsenger/tcc-uepg-latex](https://github.com/ljsenger/tcc-uepg-latex) - Este repositório contém os arquivos necessários para auxiliar os acadêmicos com a formatação de Trabalhos de Conclusão de Curso para a Universidade Estadual de Ponta Grossa, com o uso do sistema de co
 - [ljsenger/palestra-latex](https://github.com/ljsenger/palestra-latex) - Arquivos utilizados na palestra Latex em 18/11/2022, UEPG, promoção do Centro acadêmico do Curso de Engenharia de Computação
@@ -385,7 +386,6 @@
 - [Aakarsh-B/Aakarsh-B](https://github.com/Aakarsh-B/Aakarsh-B) - 
 - [imersao-alura/vitrine-imersao-react](https://github.com/imersao-alura/vitrine-imersao-react) - 
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋, Glad to see you here! this is a special repository. Its README.md will appear on my GitHub public profile. Checkout this repository, you can also use it to make your awesome GitHub profile (Don
 - [HERuppel/react-ts-workshop](https://github.com/HERuppel/react-ts-workshop) - 
 - [GustavoMazz/workShop_docker](https://github.com/GustavoMazz/workShop_docker) - 
 - [avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM](https://github.com/avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM) - 
