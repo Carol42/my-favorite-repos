@@ -136,7 +136,7 @@
 - [cami-la/curso-dio-dominando-ides-java](https://github.com/cami-la/curso-dio-dominando-ides-java) - Repositório do curso Dominando IDEs Java. Curso este oferecido pela Digital Innovation one e ministrado por mim.
 - [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
-- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons) - Repository hosting various icons and images for you to use in your README or other Markdown files.
 - [ShreyamMaity/Copy-Paste-Action](https://github.com/ShreyamMaity/Copy-Paste-Action) - GitHub Action for copying one markdown file and paste it to another markdown file's specific location.
 - [Aakarsh-B/Aakarsh-B](https://github.com/Aakarsh-B/Aakarsh-B) - 
