@@ -63,6 +63,7 @@
 - [tensorflow](#tensorflow)
 - [ubuntu](#ubuntu)
 - [web](#web)
+- [web-development](#web-development)
 
 ## android 
 
@@ -367,7 +368,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 144 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 145 stars and 172 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
@@ -454,6 +455,10 @@
 ## web 
 
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
+- [MilenaCarecho/GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) - Guia de como se tornar uma desenvolvedora front end.
+
+## web-development 
+
 - [MilenaCarecho/GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) - Guia de como se tornar uma desenvolvedora front end.
 
 
