@@ -46,6 +46,7 @@
 - [markdown](#markdown)
 - [mobile](#mobile)
 - [mysql](#mysql)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -323,6 +324,10 @@
 ## mysql 
 
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
+
+## nestjs 
+
+- [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 
 ## nextjs 
 
