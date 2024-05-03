@@ -8,6 +8,7 @@
 - [C](#c)
 - [CSS](#css)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -29,6 +30,7 @@
 
 ## C 
 
+- [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 
 ## CSS 
@@ -38,6 +40,10 @@
 ## Dart 
 
 - [congthanhng/congthanhng](https://github.com/congthanhng/congthanhng) - Profile ReadME: Community Battle game, Join my community game now!
+
+## Dockerfile 
+
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Go 
 
@@ -52,6 +58,7 @@
 
 ## Java 
 
+- [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
 ## JavaScript 
@@ -177,6 +184,8 @@
 
 ## Ruby 
 
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [fabrik42/cat_facts](https://github.com/fabrik42/cat_facts) - Rack middleware that to add cat facts in headers of HTTP responses.
 - [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift_heart:
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
