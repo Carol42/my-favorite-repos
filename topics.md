@@ -15,6 +15,8 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [cli](#cli)
+- [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
 - [css](#css)
@@ -161,6 +163,14 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
+## cli 
+
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+
+## compiler 
+
+- [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
+
 ## computer-science 
 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -294,6 +304,7 @@
 
 ## language 
 
+- [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## learning 
@@ -352,6 +363,9 @@
 
 ## others 
 
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
+- [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [shantnu/Enron-Data-Set](https://github.com/shantnu/Enron-Data-Set) - 
