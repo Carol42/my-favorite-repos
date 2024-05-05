@@ -91,6 +91,7 @@
 
 ## awesome 
 
+- [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
@@ -122,6 +123,7 @@
 
 ## awesome-list 
 
+- [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
