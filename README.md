@@ -116,6 +116,7 @@
 
 ## Others 
 
+- [terremoth/awesome-hilarious-repos](https://github.com/terremoth/awesome-hilarious-repos) - Awesome hilarious github repositories
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [hackclub/sprig-hardware](https://github.com/hackclub/sprig-hardware) - 🌱 Hardware designs for the Sprig Console
 - [ParanoidUser/yolo](https://github.com/ParanoidUser/yolo) - GitHub badge hunting 🏹🦌
