@@ -149,7 +149,7 @@
 - [ShreyamMaity/Copy-Paste-Action](https://github.com/ShreyamMaity/Copy-Paste-Action) - GitHub Action for copying one markdown file and paste it to another markdown file's specific location.
 - [Aakarsh-B/Aakarsh-B](https://github.com/Aakarsh-B/Aakarsh-B) - 
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
 - [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋, Glad to see you here! this is a special repository. Its README.md will appear on my GitHub public profile. Checkout this repository, you can also use it to make your awesome GitHub profile (Don
 - [alexandresanlim/awesome-tools-for-app-design](https://github.com/alexandresanlim/awesome-tools-for-app-design) - 🖌 It's a collection tools for App design
@@ -171,7 +171,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 160 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 162 stars and 177 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
