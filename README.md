@@ -217,7 +217,7 @@
 - [danbonattis/dio-ionic-pokedex](https://github.com/danbonattis/dio-ionic-pokedex) - Projeto Pokedex em Ionic para o LiveCoding da DIO em 23/02
 - [skynexui/components](https://github.com/skynexui/components) - ⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro
 - [omariosouto/projeto-typescripts](https://github.com/omariosouto/projeto-typescripts) - 
-- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [HERuppel/react-ts-workshop](https://github.com/HERuppel/react-ts-workshop) - 
