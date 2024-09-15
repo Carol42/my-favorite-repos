@@ -418,7 +418,7 @@
 - [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica) - 
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
-- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons) - Repository hosting various icons and images for you to use in your README or other Markdown files.
