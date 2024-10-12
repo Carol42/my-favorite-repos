@@ -279,6 +279,7 @@
 
 ## hacktoberfest 
 
+- [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
 - [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing all the Pokémon sprites
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
@@ -405,7 +406,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 174 stars and 175 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
