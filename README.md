@@ -196,7 +196,7 @@
 ## Shell 
 
 - [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
-- [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing all the Pokémon sprites
+- [PokeAPI/sprites](https://github.com/PokeAPI/sprites) - Repository containing many Pokémon sprites
 
 ## TeX 
 
