@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [aryan02420/aryan02420](https://github.com/aryan02420/aryan02420) - 
 - [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk) - Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023
 - [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐
