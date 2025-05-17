@@ -165,6 +165,7 @@
 
 ## Python 
 
+- [IOB-Muenster/TEclass2](https://github.com/IOB-Muenster/TEclass2) - 
 - [shantnu/Enron-Data-Set](https://github.com/shantnu/Enron-Data-Set) - 
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -207,6 +208,7 @@
 
 ## TypeScript 
 
+- [SciCatProject/frontend](https://github.com/SciCatProject/frontend) - SciCat Project Official Frontend
 - [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
 - [rocketseat-education/nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) - Aplicação de recordação de memórias desenvolvida no NLW 12
 - [rocketseat-education/masterclass-react](https://github.com/rocketseat-education/masterclass-react) - Código produzido na masterclass de React ⚛️
