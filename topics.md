@@ -388,6 +388,8 @@
 
 ## others 
 
+- [SciCatProject/frontend](https://github.com/SciCatProject/frontend) - SciCat Project Official Frontend
+- [IOB-Muenster/TEclass2](https://github.com/IOB-Muenster/TEclass2) - 
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
