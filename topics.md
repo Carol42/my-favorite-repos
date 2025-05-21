@@ -422,7 +422,7 @@
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [dcfdl/Rea](https://github.com/dcfdl/Rea) - 
 - [ljsenger/tcc-uepg-latex](https://github.com/ljsenger/tcc-uepg-latex) - Este repositório contém os arquivos necessários para auxiliar os acadêmicos com a formatação de Trabalhos de Conclusão de Curso para a Universidade Estadual de Ponta Grossa, com o uso do sistema de co
-- [ljsenger/palestra-latex](https://github.com/ljsenger/palestra-latex) - Arquivos utilizados na palestra Latex em 18/11/2022, UEPG, promoção do Centro acadêmico do Curso de Engenharia de Computação
+- [ljsenger/palestra-latex](https://github.com/ljsenger/palestra-latex) - Aula LaTex
 - [gilfernandesjr/disciplina_devmobile](https://github.com/gilfernandesjr/disciplina_devmobile) - 
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [cebuliski/nodejs-initial-setup](https://github.com/cebuliski/nodejs-initial-setup) - Setup para API Node.js - template TypeScript - jest, babel e eslint
