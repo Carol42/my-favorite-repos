@@ -433,7 +433,7 @@
 - [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) - The Royal Game of Ur, asynchronous and massively-multiplayer — all you need is a Github account.
 - [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica) - 
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
-- [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) - Play chess via GitHub
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons) - Repository hosting various icons and images for you to use in your README or other Markdown files.
