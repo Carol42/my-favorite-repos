@@ -52,6 +52,7 @@
 ## HTML 
 
 - [Roll20/roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Submit a ticket at roll20.net/help if critical hotfixes are to be requested.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [MilenaCarecho/GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) - Guia de como se tornar uma desenvolvedora front end.
@@ -75,7 +76,6 @@
 - [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [dcfdl/Rea](https://github.com/dcfdl/Rea) - 
 - [cebuliski/nodejs-initial-setup](https://github.com/cebuliski/nodejs-initial-setup) - Setup para API Node.js - template TypeScript - jest, babel e eslint
