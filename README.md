@@ -174,7 +174,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 226 stars and 188 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 227 stars and 188 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
