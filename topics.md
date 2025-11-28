@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai-agents](#ai-agents)
 - [android](#android)
 - [api](#api)
@@ -74,6 +75,10 @@
 - [ubuntu](#ubuntu)
 - [web](#web)
 - [web-development](#web-development)
+
+## agent 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## ai-agents 
 
