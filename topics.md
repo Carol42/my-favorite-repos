@@ -37,6 +37,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [games](#games)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -268,6 +269,10 @@
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
 - [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu) - An interactive chess game in a README file!
+
+## generative-ai 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## git 
 
