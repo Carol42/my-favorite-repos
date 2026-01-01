@@ -75,6 +75,7 @@
 - [bchiang7/octoprofile](https://github.com/bchiang7/octoprofile) - A nicer look at GitHub profiles built with Next.js and the GitHub API
 - [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) - Add your recent activity to your profile readme!
 - [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer) - Replace data from template repository with dynamic data
+- [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [dcfdl/Rea](https://github.com/dcfdl/Rea) - 
 - [cebuliski/nodejs-initial-setup](https://github.com/cebuliski/nodejs-initial-setup) - Setup para API Node.js - template TypeScript - jest, babel e eslint
@@ -174,7 +175,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 239 stars and 191 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 240 stars and 191 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
@@ -215,7 +216,6 @@
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
-- [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [danbonattis/dio-ionic-pokedex](https://github.com/danbonattis/dio-ionic-pokedex) - Projeto Pokedex em Ionic para o LiveCoding da DIO em 23/02
