@@ -13,7 +13,6 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -90,10 +89,6 @@
 - [alura-challenges/aluraquiz-base](https://github.com/alura-challenges/aluraquiz-base) - Projeto construido durante a Imersão React edição NextJS da Alura!
 - [gideonfernandes/typing-game](https://github.com/gideonfernandes/typing-game) - A simple yet fun game with 3 levels of difficulty. The objective of the game is to beat the clock by typing random words.
 - [imersao-alura/aluraflix](https://github.com/imersao-alura/aluraflix) - ⚛️ Projeto feito durante a Imersão React da Alura
-
-## Jinja 
-
-- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 
 ## MDX 
 
@@ -177,6 +172,7 @@
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 247 stars and 194 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
 - [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu) - An interactive chess game in a README file!
