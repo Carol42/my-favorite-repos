@@ -93,6 +93,7 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -212,7 +213,6 @@
 - [rocketseat-education/nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [danbonattis/dio-ionic-pokedex](https://github.com/danbonattis/dio-ionic-pokedex) - Projeto Pokedex em Ionic para o LiveCoding da DIO em 23/02
 - [skynexui/components](https://github.com/skynexui/components) - ⚛️  Deliver UI for Web and Mobile platforms without taking care about complexity on how to style there. It's based in React and Flutter and uses the core of CSS specification to allow you to write cro
