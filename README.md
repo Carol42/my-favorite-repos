@@ -177,7 +177,7 @@
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
 - [bloedboemmel/bloedboemmel](https://github.com/bloedboemmel/bloedboemmel) - Hey guys, this is my GitHub-Profile. At this awsome README you can play connect4. If you fork ik, please star it!
 - [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu) - An interactive chess game in a README file!
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM](https://github.com/avbernardo/SOFTWARE-PARA-NAVEGA-O-NO-COMPUTADOR-ATRAV-S-DE-RASTREAMENTO-OCULAR-POR-MEIO-DE-UMA-WEBCAM) - 
 
 ## Roff 
