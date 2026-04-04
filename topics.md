@@ -32,6 +32,7 @@
 - [development](#development)
 - [devops](#devops)
 - [documentation](#documentation)
+- [esp32](#esp32)
 - [flask](#flask)
 - [flutter](#flutter)
 - [frontend](#frontend)
@@ -250,6 +251,10 @@
 ## documentation 
 
 - [Jahenr/CheatSheets](https://github.com/Jahenr/CheatSheets) - Cheat Sheets for many well know systems. Featured on https://github.com/szabgab/awesome-for-non-programmers
+
+## esp32 
+
+- [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 
 ## flask 
 
