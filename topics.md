@@ -65,7 +65,6 @@
 - [openai](#openai)
 - [others](#others)
 - [php](#php)
-- [programming](#programming)
 - [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
@@ -493,10 +492,6 @@
 ## php 
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-
-## programming 
-
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 
 ## programming-language 
 
