@@ -432,6 +432,7 @@
 
 ## others 
 
+- [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware) - Projeto com CRUD básico para a disciplina de projeto de hardware
 - [SciCatProject/frontend](https://github.com/SciCatProject/frontend) - SciCat Project Official Frontend
 - [IOB-Muenster/TEclass2](https://github.com/IOB-Muenster/TEclass2) - 
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
@@ -459,7 +460,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 260 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 260 stars and 195 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
