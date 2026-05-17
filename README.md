@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware) - Projeto com CRUD básico para a disciplina de projeto de hardware
 - [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 - [aryan02420/aryan02420](https://github.com/aryan02420/aryan02420) - 
 - [ErickWendel/5-learnings-from-nodejs-to-browsers-talk](https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk) - Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023
@@ -171,7 +172,7 @@
 - [techytushar/random-memer](https://github.com/techytushar/random-memer) - Returns random meme images scraped from Memedroid
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 260 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 260 stars and 195 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [Luan-Michel/image_to_excel_art](https://github.com/Luan-Michel/image_to_excel_art) - A script to transform an image into an Excel Art
