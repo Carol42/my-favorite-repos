@@ -432,6 +432,7 @@
 
 ## others 
 
+- [ljsenger/latex-2023](https://github.com/ljsenger/latex-2023) - 
 - [T0madon/proj-hardware](https://github.com/T0madon/proj-hardware) - Projeto com CRUD básico para a disciplina de projeto de hardware
 - [SciCatProject/frontend](https://github.com/SciCatProject/frontend) - SciCat Project Official Frontend
 - [IOB-Muenster/TEclass2](https://github.com/IOB-Muenster/TEclass2) - 
