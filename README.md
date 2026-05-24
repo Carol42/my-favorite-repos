@@ -201,6 +201,7 @@
 
 ## TeX 
 
+- [ljsenger/latex-2023](https://github.com/ljsenger/latex-2023) - 
 - [ljsenger/tcc-uepg-latex](https://github.com/ljsenger/tcc-uepg-latex) - Este repositório contém os arquivos necessários para auxiliar os acadêmicos com a formatação de Trabalhos de Conclusão de Curso para a Universidade Estadual de Ponta Grossa, com o uso do sistema de co
 - [ljsenger/palestra-latex](https://github.com/ljsenger/palestra-latex) - Aula LaTex
 
