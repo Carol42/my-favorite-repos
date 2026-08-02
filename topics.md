@@ -336,7 +336,7 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [animavita/animavita](https://github.com/animavita/animavita) - Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋, Glad to see you here! this is a special repository. Its README.md will appear on my GitHub public profile. Checkout this repository, you can also use it to make your awesome GitHub profile (Don
+- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋 Full-stack dev in the making, currently building random cool stuff. This repo's README shows up on my profile - take a look around!
 
 ## html 
 
