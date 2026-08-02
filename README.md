@@ -150,7 +150,7 @@
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
-- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋, Glad to see you here! this is a special repository. Its README.md will appear on my GitHub public profile. Checkout this repository, you can also use it to make your awesome GitHub profile (Don
+- [darshanr27/darshanr27](https://github.com/darshanr27/darshanr27) - Hey 👋 Full-stack dev in the making, currently building random cool stuff. This repo's README shows up on my profile - take a look around!
 - [alexandresanlim/awesome-tools-for-app-design](https://github.com/alexandresanlim/awesome-tools-for-app-design) - 🖌 It's a collection tools for App design
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [GustavoMazz/workShop_docker](https://github.com/GustavoMazz/workShop_docker) - 
