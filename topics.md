@@ -136,7 +136,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 - [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain.
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
@@ -467,7 +467,7 @@
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy) - github profile readme
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 263 stars and 194 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 264 stars and 194 forks 🌟
 - [moepoi/moepoi](https://github.com/moepoi/moepoi) - 
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt/thmsgbrt) - My awesome README.md
@@ -521,7 +521,7 @@
 
 ## python 
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 
